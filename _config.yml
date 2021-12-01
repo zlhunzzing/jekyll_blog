@@ -18,6 +18,8 @@ toc:
   h_min: 1
   h_max: 3
 
+category_list:    [ Jekyll, Test ]
+
 # markdown render engine.
 markdown:         kramdown
 kramdown:
